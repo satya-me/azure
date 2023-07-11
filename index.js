@@ -29,7 +29,7 @@ mongoose
 const port = process.env.PORT || 8080;
 
 app.get('/', (req, res) => {
-    res.send('Hello Node js, from Azure!'); // This sends the response "Hello, world!" to the browser
+    res.send('Hello World, from Azure!'); // This sends the response "Hello, world!" to the browser
 });
 
 app.get('/user', async (req, res) => {
