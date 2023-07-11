@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b1f8113f-789a-4152-bcc1-344424fa0774/resourceGroups/DefaultResourceGroup-EUS/providers/Microsoft.Web/sites/dbmongonodeapi",
+    "appService.deploySubpath": "."
+}
